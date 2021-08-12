@@ -1,0 +1,24 @@
+body{
+  background-image: url("p1.jpg");
+  background-position: center;
+  position: cover;
+
+}
+label{
+  color: yellow;
+}
+input{
+  border-radius: 70px 50px;
+  padding: 4px;
+  
+}
+textarea{
+margin: 8px;
+}
+button{
+  border-color: whitesmoke;
+  border-radius: 500px 500px;
+  padding: 8px;
+  color:plum;
+  background-color: purple;
+}
